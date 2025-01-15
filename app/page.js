@@ -60,7 +60,7 @@ const page = () => {
           <div className="flex justify-between items-center h-16">
             <div className="flex items-center">
               <span className="text-2xl font-bold text-blue-900">
-                Mardan Honda
+                Mardan Honda Auto Workshop
               </span>
             </div>
 
@@ -290,7 +290,7 @@ const page = () => {
                 <Mail className="w-8 h-8 text-blue-600" />
               </div>
               <h3 className="text-xl font-semibold mb-2">Email</h3>
-              <p className="text-gray-600">info@mardanhonda.com</p>
+              <p className="text-gray-600">mardanhondaautoworkshop@gmail.com</p>
             </div>
             <div className="flex flex-col items-center p-8 bg-white rounded-lg shadow-md hover:shadow-xl transition-shadow">
               <div className="bg-blue-50 w-16 h-16 rounded-full flex items-center justify-center mb-4">
@@ -358,15 +358,15 @@ const page = () => {
             <div>
               <h3 className="text-xl font-bold mb-4">Contact Info</h3>
               <div className="space-y-2">
-                <p className="text-gray-300">Bank Road, Mardan, KPK</p>
-                <p className="text-gray-300">+92 300 1234567</p>
-                <p className="text-gray-300">info@mardanhonda.com</p>
+                <p className="text-gray-300">Near Engineering University,Charsada Road Mardan</p>
+                <p className="text-gray-300">+923433042417</p>
+                <p className="text-gray-300">mardanhondaautoworkshop@gmail.com</p>
               </div>
             </div>
           </div>
           <div className="border-t border-gray-700 pt-8 text-center">
             <p>
-              &copy; {new Date().getFullYear()} Mardan Honda Workshop. All
+              &copy; {new Date().getFullYear()} Mardan Honda Auto Workshop. All
               rights reserved.
             </p>
           </div>
