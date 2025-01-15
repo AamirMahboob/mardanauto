@@ -117,7 +117,7 @@ const page = () => {
         <div className="container mx-auto px-6 py-24">
           <div className="flex flex-col md:flex-row items-center">
             <div className="w-full md:w-1/2 mb-8 md:mb-0">
-              <h1 className="text-5xl font-bold mb-4">Mardan Honda Workshop</h1>
+              <h1 className="text-5xl font-bold mb-4">Mardan Honda Auto Workshop</h1>
               <p className="text-xl mb-8">
                 Your Trusted Honda Service Partner in Mardan
               </p>
