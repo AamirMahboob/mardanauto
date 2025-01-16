@@ -122,9 +122,7 @@ const page = () => {
                 Your Trusted Honda Service Partner in Mardan
               </p>
               <div className="flex gap-4">
-                <button className="bg-red-600 hover:bg-red-700 text-white px-6 py-3 rounded-lg font-semibold transition-colors">
-                  Book Appointment
-                </button>
+                 
                 <button
                   onClick={() => scrollToSection("contact")}
                   className="bg-transparent border-2 border-white hover:bg-white hover:text-blue-900 text-white px-6 py-3 rounded-lg font-semibold transition-colors"
@@ -283,7 +281,7 @@ const page = () => {
                 <Phone className="w-8 h-8 text-blue-600" />
               </div>
               <h3 className="text-xl font-semibold mb-2">Phone</h3>
-              <p className="text-gray-600">+92 300 1234567</p>
+              <p className="text-gray-600">+923433042417</p>
             </div>
             <div className="flex flex-col items-center p-8 bg-white rounded-lg shadow-md hover:shadow-xl transition-shadow">
               <div className="bg-blue-50 w-16 h-16 rounded-full flex items-center justify-center mb-4">
@@ -298,7 +296,7 @@ const page = () => {
               </div>
               <h3 className="text-xl font-semibold mb-2">Location</h3>
               <p className="text-gray-600 text-center">
-                Bank Road, Mardan, KPK, Pakistan
+              Near Engineering University,Charsada Road Mardan
               </p>
             </div>
           </div>
@@ -312,7 +310,7 @@ const page = () => {
           <div className="max-w-md mx-auto bg-gray-50 p-8 rounded-lg shadow-md">
             <div className="space-y-4">
               <div className="flex justify-between items-center pb-4 border-b border-gray-200">
-                <span className="font-semibold">Monday - Friday</span>
+                <span className="font-semibold">Monday - Sunday</span>
                 <span>9:00 AM - 6:00 PM</span>
               </div>
               <div className="flex justify-between items-center pb-4 border-b border-gray-200">
@@ -320,7 +318,7 @@ const page = () => {
                 <span>9:00 AM - 4:00 PM</span>
               </div>
               <div className="flex justify-between items-center">
-                <span className="font-semibold">Sunday</span>
+                <span className="font-semibold">Friday</span>
                 <span className="text-red-600">Closed</span>
               </div>
             </div>
